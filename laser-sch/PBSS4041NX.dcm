@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PBSS4041NX
+D NPN transistor, base/collector/emitter
+$ENDCMP
+#
+$CMP PBSS4041PX
+D PNP transistor, base/collector/emitter
+K transistor NPN
+F ~
+$ENDCMP
+#
+#End Doc Library

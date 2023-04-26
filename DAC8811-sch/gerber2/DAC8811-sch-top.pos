@@ -1,0 +1,35 @@
+### Module positions - created on Wed Feb 22 14:32:00 2023 ###
+### Printed by Pcbnew version kicad 5.1.9+dfsg1-1+deb11u1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                           PosX       PosY       Rot  Side
+C1        10uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    28.9560    19.0500   90.0000  top
+C2        10uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    19.3040    13.8695  270.0000  top
+C3        0.1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    26.7705    19.5580    0.0000  top
+C4        0.1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    21.5900    12.7000  180.0000  top
+C5        10uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    15.7480    10.5675  270.0000  top
+C6        10uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    15.7480    16.5100  270.0000  top
+C7        0.1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    14.4780    10.6680  270.0000  top
+C8        0.1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    14.4780    16.5100  270.0000  top
+C9        1nF            C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    13.4620    10.6680  270.0000  top
+C10       1nF            C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    13.4620    16.5100  270.0000  top
+C11       10uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder     5.5880    14.1235  270.0000  top
+C12       10uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder     5.5880     8.6360  270.0000  top
+C13       0.1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder     7.7950    14.1030    0.0000  top
+C14       0.1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder     7.6200     8.3820    0.0000  top
+C15       1nF            C_0201_0603Metric_Pad0.64x0.40mm_HandSolder     7.7205    13.2080    0.0000  top
+C16       1nF            C_0201_0603Metric_Pad0.64x0.40mm_HandSolder     7.6200     7.3660    0.0000  top
+C21       10uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    28.7020     8.6360   90.0000  top
+C22       10uF           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    19.0500     3.5560  270.0000  top
+C23       0.1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    26.6700     9.1440    0.0000  top
+C24       0.1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder    21.3360     2.2860  180.0000  top
+R1        10k            R_0402_1005Metric_Pad0.72x0.64mm_HandSolder    28.4480     5.4985  270.0000  top
+R2        10k            R_0402_1005Metric_Pad0.72x0.64mm_HandSolder    23.8760     9.1440    0.0000  top
+R3        10k            R_0402_1005Metric_Pad0.72x0.64mm_HandSolder    28.7020    15.9125  270.0000  top
+R4        10k            R_0402_1005Metric_Pad0.72x0.64mm_HandSolder    24.1300    19.5580    0.0000  top
+U1        DAC8811IBDGKR  SOP65P490X110-8N                                9.7880    10.7090    0.0000  top
+U2        DAC8811IBDGKR  SOP65P490X110-8N                                9.7700    16.4390    0.0000  top
+U3        OPA2277UA_2K5  SOIC127P599X175-8N                             23.8760     5.5880    0.0000  top
+U4        OPA2277UA_2K5  SOIC127P599X175-8N                             24.1300    16.0020    0.0000  top
+U5        OPA2277UA_2K5  SOIC127P599X175-8N                              8.3820     3.5560    0.0000  top
+## End

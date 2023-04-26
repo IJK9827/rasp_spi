@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN10501DBVR
+D OPAmp symbol for simulation only
+K simulation
+F ~
+$ENDCMP
+#
+#End Doc Library

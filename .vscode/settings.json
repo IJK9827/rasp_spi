@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bcm2835.h": "c",
+        "interrupts.h": "c"
+    }
+}
